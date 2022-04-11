@@ -8,6 +8,7 @@
 <h2>V1 Blog Post/Comment Esprit 2020</h2>
 
 <img src="https://i.ibb.co/HD8q088/image.png" data-canonical-src="https://i.ibb.co/HD8q088/image.png" style="max-width:150%;">
+<img src="https://i.ibb.co/HD8q088/image.png" data-canonical-src="https://i.ibb.co/HD8q088/image.png" style="max-width:100%;">
 <img src="https://i.ibb.co/RzhLsBY/image.png" data-canonical-src="https://i.ibb.co/RzhLsBY/image.png" style="max-width:100%;">
 <img src="https://i.ibb.co/xzRHPkQ/image.png" data-canonical-src="https://i.ibb.co/xzRHPkQ/image.png" style="max-width:100%;">
 <img src="https://i.ibb.co/0M8qqBM/image.png" data-canonical-src="https://i.ibb.co/0M8qqBM/image.png" style="max-width:100%;">
