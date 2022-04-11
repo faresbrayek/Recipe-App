@@ -3,7 +3,6 @@
 
 <p><a href="https://github.com/faresbrayek/Recipe-App"></a>
 <a href="https://github.com/faresbrayek/Recipe-App"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/MisterSpyx/Python-Sender-/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p> 🐱‍💻 Simple React Recipe-App  🐱‍💻  </p>
 
 <h2>V1 Blog Post/Comment Esprit 2020</h2>
